@@ -1,0 +1,44 @@
+.contentCorpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 70vmin;
+    padding-top: 2vmin;
+}
+
+.carousel{
+    height: 71vmin;
+    width: 100%;
+}
+
+.carouselItem{
+    height: 65vmin;
+    width: 100%;
+}
+
+.carousel-inner{
+    height: 485px;
+}
+
+.carouselCaption{
+    height: 21vmin;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.imagemAdotaPets{
+    width: 500px;
+    align-items: center;
+}
+
+.imagemCalc{
+    width: 220px;
+}
+
+.carroselCaption{
+    align-items: end;
+    align-content: center;
+}
